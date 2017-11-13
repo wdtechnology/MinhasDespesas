@@ -4,22 +4,6 @@
 	"companyAddress": "42 JavaScript Way\n\t\t\t\t\t\tBoston, MA 02114\n\t\t\t\t\tUSA",
 	"companyURL": "http://lea.verou.me",
 	"companyEmail": "lea@verou.me",
-	"invoice": [
-		{
-			"id": "1",
-			"recipient": {
-				"name": "Recipient name",
-				"address": "Recipient address"
-			},
-			"currency": "$",
-			"services": [
-				{
-					"description": "\n\t\t\t\t\t\t\t\tDescription of service provided\n\t\t\t\t\t\t\t",
-					"amount": "Amount"
-				}
-			],
-			"date": "2017-11-13"
-		}
-	],
+	"invoice": [],
 	"companyTitulo": "A Empresa é sua fique a vontade"
 }
