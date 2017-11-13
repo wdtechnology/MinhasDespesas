@@ -23,5 +23,21 @@
 			]
 		}
 	],
-	"companyTitulo": "A Empresa é sua fique a vontade"
+	"companyTitulo": "A Empresa é sua fique a vontade",
+	"fatura": [
+		{
+			"id": "1",
+			"recipient": {
+				"name": "Nome do Destinatário",
+				"address": "Endereço do destinatário"
+			},
+			"currency": "R$",
+			"services": [
+				{
+					"description": "\n\t\t\t\t\t\t\t\tDescrição do serviço prestado\n\t\t\t\t\t\t\t",
+					"amount": "Montante"
+				}
+			]
+		}
+	]
 }
