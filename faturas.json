@@ -1,0 +1,32 @@
+{
+	"companyLogo": "http://lea.verou.me/logo.svg",
+	"companyName": "Lea Verou",
+	"companyAddress": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
+	"companyURL": "http://lea.verou.me",
+	"companyEmail": "lea@verou.me",
+	"fatura": [
+		{
+			"id": "1",
+			"date": "2017-11-13",
+			"recipient": {
+				"name": "Williams",
+				"address": "rua: da Paz 345"
+			},
+			"currency": "R$",
+			"services": [
+				{
+					"description": "terra de jardim",
+					"amount": "123.13"
+				},
+				{
+					"description": "Carne de boi",
+					"amount": "34,.45"
+				},
+				{
+					"description": "Linguiça",
+					"amount": "234"
+				}
+			]
+		}
+	]
+}
