@@ -9,7 +9,7 @@
 			"id": "1",
 			"date": "2017-11-13",
 			"recipient": {
-				"name": "Williams",
+				"name": "Williams Dantas Queiroga ",
 				"address": "rua: da Paz 345"
 			},
 			"currency": "R$",
@@ -20,12 +20,13 @@
 				},
 				{
 					"description": "Carne de boi",
-					"amount": "34,.45"
+					"amount": "34.45"
 				},
 				{
 					"description": "Linguiça",
-					"amount": "234"
-				}
+					"amount": "234.56"
+				},
+				{}
 			]
 		}
 	],
