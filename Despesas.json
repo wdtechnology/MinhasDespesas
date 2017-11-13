@@ -5,5 +5,15 @@
 	"companyAddress": "Rua : João Alvares Soares 1540\n\t\t\t\t\t\tCampo Belo - São Paulo, SP 06904-000\n\t\t\t\t\tBrasil",
 	"companyURL": "http://lea.verou.me",
 	"companyEmail": "lea@verou.me",
-	"fatura": []
+	"fatura": [
+		{
+			"id": "1",
+			"recipient": {},
+			"currency": "R$",
+			"services": [
+				{},
+				{}
+			]
+		}
+	]
 }
