@@ -4,6 +4,24 @@
 	"companyAddress": "Rua: João Alvares soares - 1540\nCampo belo - São paulo - , SP  cep- 09604-000\nBrasil ",
 	"companyURL": "http://lea.verou.me",
 	"companyEmail": "lea@verou.me",
-	"invoice": [],
+	"invoice": [
+		{
+			"id": "2",
+			"recipient": {},
+			"currency": "R$",
+			"services": [
+				{}
+			]
+		},
+		{
+			"id": "1",
+			"recipient": {},
+			"currency": "R$",
+			"services": [
+				{},
+				{}
+			]
+		}
+	],
 	"companyTitulo": "A Empresa é sua fique a vontade"
 }
