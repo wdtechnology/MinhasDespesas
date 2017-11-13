@@ -1,8 +1,8 @@
 {
 	"companyLogo": "https://cdn.rawgit.com/wdtechnology/MinhasDespesas/fb18c4b22a60e27e2dea67f55e75c9969bc30ba9/images/logo.png",
-	"companyName": "Lea Verou",
-	"companyAddress": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
-	"companyURL": "http://lea.verou.me",
+	"companyName": "Tudo em Tecnologia",
+	"companyAddress": "Rua: João alvares Soares - 1540\nCampo belo São Paulo - sp 09609-000\nbrasil",
+	"companyURL": "https://github.com/wdtechnology/MinhasDespesas",
 	"companyEmail": "lea@verou.me",
 	"fatura": [
 		{
