@@ -4,31 +4,6 @@
 	"companyAddress": "Rua: João alvares Soares - 1540\nCampo belo São Paulo - sp 09609-000\nbrasil",
 	"companyURL": "https://github.com/wdtechnology/MinhasDespesas",
 	"companyEmail": "will_dq@hotmail.com",
-	"fatura": [
-		{
-			"id": "1",
-			"date": "2017-11-13",
-			"recipient": {
-				"name": "Williams Dantas Queiroga ",
-				"address": "rua: da Paz 345"
-			},
-			"currency": "R$",
-			"services": [
-				{
-					"description": "terra de jardim",
-					"amount": "123.13"
-				},
-				{
-					"description": "Carne de boi",
-					"amount": "34.45"
-				},
-				{
-					"description": "Linguiça",
-					"amount": "234.56"
-				},
-				{}
-			]
-		}
-	],
+	"fatura": [],
 	"companyTitulo": "Minhas  faturas "
 }
