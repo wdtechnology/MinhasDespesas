@@ -4,6 +4,36 @@
 	"companyAddress": "Rua: João alvares Soares - 786\nCampo belo São Paulo - sp 09609-000\nbrasil",
 	"companyURL": "https://github.com/wdtechnology/MinhasDespesas",
 	"companyEmail": "will_dq@hotmail.com",
-	"fatura": [],
+	"fatura": [
+		{
+			"id": "1",
+			"date": "2017-11-14",
+			"recipient": {
+				"name": "Maria josé",
+				"address": "rua: da paz 568"
+			},
+			"currency": "R$",
+			"services": [
+				{
+					"description": "cesto",
+					"amount": "23.50"
+				},
+				{
+					"description": "caixa de oleo",
+					"amount": "30.00"
+				},
+				{
+					"description": "arroz",
+					"amount": "3.50"
+				},
+				{
+					"description": "pães",
+					"amount": "2.45"
+				},
+				{},
+				{}
+			]
+		}
+	],
 	"companyTitulo": "Minhas  faturas "
 }
