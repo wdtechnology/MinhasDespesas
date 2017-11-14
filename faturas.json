@@ -1,34 +1,9 @@
 {
 	"companyLogo": "https://cdn.rawgit.com/wdtechnology/MinhasDespesas/25798f9f5ce9c12f4299d38ff902f7f0acc911f5/images/logo.png",
-	"companyName": "Tudo em Tecnologia",
-	"companyAddress": "Rua: João alvares Soares - 1540\nCampo belo São Paulo - sp 09609-000\nbrasil",
+	"companyName": "Williams Dantas em Tecnologia",
+	"companyAddress": "Rua: João alvares Soares - 786\nCampo belo São Paulo - sp 09609-000\nbrasil",
 	"companyURL": "https://github.com/wdtechnology/MinhasDespesas",
 	"companyEmail": "will_dq@hotmail.com",
-	"fatura": [
-		{
-			"id": "1",
-			"date": "2017-11-13",
-			"recipient": {
-				"name": "Williams dantas queiroga",
-				"address": "Rua da paz 56"
-			},
-			"currency": "R$",
-			"services": [
-				{
-					"description": "dgasto com saude ",
-					"amount": "450"
-				},
-				{
-					"description": "gasto com terra",
-					"amount": "456"
-				},
-				{
-					"description": "gasto com motoristas",
-					"amount": "2300"
-				},
-				{}
-			]
-		}
-	],
+	"fatura": [],
 	"companyTitulo": "Minhas  faturas "
 }
